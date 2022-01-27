@@ -5,6 +5,8 @@
 - JAVASCRIPT
 - JAVA
 - SOFT SKILLS
+- REACT
+- SPRING BOOT
 
 <div align="center">
   <a href="https://github.com/viniTWL">
