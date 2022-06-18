@@ -3,9 +3,9 @@
 *_Currently studying_* 👩🏾‍💻
 - HTML5 & CSS3
 - JAVASCRIPT
-- JAVA
 - REACT
-- SPRING BOOT
+- PHP
+- LARAVEL
 
 <div align="center">
   <a href="https://github.com/viniTWL">
