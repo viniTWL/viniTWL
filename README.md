@@ -1,6 +1,6 @@
 # Welcome to my Profile!
 
-Web Developer at KronaMaxxi
+Software Engineer at Rocha System
 
 *_Currently studying_* 👩🏾‍💻
 - TYPESCRIPT
